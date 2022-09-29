@@ -4,7 +4,7 @@
   export default {
     data() {
       return {
-        baseApiURL: 'http://localhost:4000/api',
+        baseApiURL: 'https://patriziomadferitmilione.github.io/patcrypto/',
         CryptosList: {},
         CryptoName: '',
         CryptoArray: []
